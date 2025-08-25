@@ -1,7 +1,7 @@
 {
-  "name": "indik4-crm",
+  "name": "lux-crm",
   "version": "1.0.0",
-  "description": "Современная CRM система с красивыми анимациями",
+  "description": "LUX CRM — современная CRM‑система для управления продажами и клиентами",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -30,7 +30,7 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.24"
   },
-  "keywords": ["crm", "business", "management", "react", "modern-ui"],
+  "keywords": ["crm", "sales", "management", "react", "tailwind"],
   "author": "Indik4",
   "license": "MIT"
 }
